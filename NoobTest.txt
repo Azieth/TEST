@@ -1,0 +1,7 @@
+a = input("Is it cloudy?");
+if(a=="yes") {
+	show("Don't forget to bring an umbrella.");}
+	show("Bring a raincoat.");
+} else {
+	show("Wear sunscreen.");
+}
