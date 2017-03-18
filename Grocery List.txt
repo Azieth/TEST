@@ -2,5 +2,9 @@ testing how it looks like
 grocery list
 apples=5;
 carrots=3;
-tomatoes=4
 pears=2
+paper=10
+cabbages=6
+
+show(cabbages+carrots)
+vegetables= show(cabbages=carrots)
