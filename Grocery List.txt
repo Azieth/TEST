@@ -1,0 +1,6 @@
+testing how it looks like
+grocery list
+apples=5;
+carrots=3;
+tomatoes=4
+pears=2
